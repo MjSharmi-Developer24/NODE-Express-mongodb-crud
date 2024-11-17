@@ -1,0 +1,63 @@
+body{
+    /* text-align: center; */
+    margin-right: 500px;
+    /* background-color: black; */
+   background-image: url("c2.jpg");
+   /* position: fixed; */
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+ ul a{
+    text-decoration: none;
+}
+h1{
+    color: darkcyan;
+    margin-top: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 50px;
+    font-size: 35px;
+}
+h1 span{
+    color: red;
+}
+form label{
+    color: white;  
+    font-size: 20px;  
+    padding-left: 30px;
+}
+form input{
+    height: 30px;
+    /* width: 150px; */
+    border: 0px;
+    box-shadow: 0 0 10px white;
+    border-radius: 10px;
+}
+h4{
+    color: white;
+    margin-right: 50px;
+}
+h2{
+    color: white;
+    padding-left: 50px;
+    
+}
+button{
+    background: linear-gradient(red,darkblue);
+    height: 30px;
+    width: 130px;
+    border-radius: 5px;
+    border: 0px;
+    
+}
+button a{
+    color:white;
+    font-size: 15px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
